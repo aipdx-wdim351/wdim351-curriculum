@@ -66,4 +66,5 @@ a[href*="grooveshark"]{
   width: oursprites-sprite-width("facebook-64");
   height: oursprites-sprite-height("facebook-64");
   background: grey;
+  // @include hide-text();
 }
